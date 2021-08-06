@@ -11,8 +11,7 @@ Explanation of counting sort functionality and demonstration of their lineal mag
 #### 2021-1
 
 ---
-> Si no aceptas las consecuencias de tus elecciones, vivir será una tortura. 
-##### *-Juan Cardona* 
+> *Juan Cardona* 
 
 ## References
 
