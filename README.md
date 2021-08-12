@@ -4,7 +4,7 @@
 Explanation of counting sort functionality and demonstration of their lineal magnitude order.
 
 ---
-![Universidad de Antioquia](https://www.udea.edu.co/wps/wcm/connect/udea/721b156e-f6bc-4dc8-8595-8b4731c9a8c7/facultad-ingenieria.png?MOD=AJPERES&CVID=nc5CqsS)
+![Universidad de Antioquia](https://vias.ciiisol.com/images/LogoFacultaddeIngenieria-verde.png)
 
 ## Departamento de Ingeniería de Sistemas
 ### Estructuras de Datos
